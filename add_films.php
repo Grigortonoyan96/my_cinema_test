@@ -107,5 +107,3 @@ for($j=0;$j<$category_num;$j++) {
 
 // git repository
 // i add another comment
-//new push
-//another test 
