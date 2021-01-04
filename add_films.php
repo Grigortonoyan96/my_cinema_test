@@ -107,3 +107,4 @@ for($j=0;$j<$category_num;$j++) {
 
 // git repository
 //my push
+// my push terminal 
